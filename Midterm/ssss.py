@@ -1,0 +1,1 @@
+print("nickel".rjust(18))

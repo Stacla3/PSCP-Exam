@@ -1,0 +1,4 @@
+"""RemoveTag"""
+def main():
+    """Start"""
+    
